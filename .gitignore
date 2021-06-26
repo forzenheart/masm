@@ -1,0 +1,9 @@
+*
+!*/
+
+!*.asm
+
+!/download/*
+!/examples/*
+!/lib/*
+!/vsseting/*
